@@ -1,3 +1,8 @@
+  
+FROM andrewosh/binder-base
+
+MAINTAINER Kozo Nishida <knishida@riken.jp>
+
 USER root
 
 # Add ecell4 dependencies
